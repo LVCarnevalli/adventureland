@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name         Adventure Land Clean Template
 // @version      0.1
-// @author       lcarnevalli
+// @author       https://github.com/LVCarnevalli/adventureland
 // @match        https://adventure.land/*
 // @grant        GM_addStyle
-// @grant        GM_getValue
-// @grant        GM_setValue
 // @require https://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
 const $ = window.jQuery;
