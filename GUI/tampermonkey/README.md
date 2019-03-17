@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#key-features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Install</a>
+  <a href="#download">Install</a> •
   <a href="#license">License</a>
 </p>
 
@@ -28,7 +28,7 @@ From the moment the script to the installation, it will be automatically activat
 1. Install extension <a href="https://tampermonkey.net/" target="_blank">Tampermonkey</a>.
 2. Download files for <a href="https://github.com/LVCarnevalli/adventureland/archive/master.zip">GitHub</a>.
 3. Compress folder "GUI/tampermonkey" to ".zip".
-4. Import ".zip" in Tampermonkey Extension.
+4. Import ".zip" in Tampermonkey Extension: <br/>
 Open Tampermonkey, go to "Utilities" on the right at the top and choose "Import file". 
 
 ## License
