@@ -19,7 +19,7 @@
 * [Debug Chrome](https://www.reddit.com/r/AdventureLand/comments/58yp8e/)
 * [Criando templates customizados](https://github.com/LVCarnevalli/adventureland/tree/master/GUI/tampermonkey)
 
-## <img src="https://images.vexels.com/media/users/3/153562/isolated/preview/11392b687053e11f19d081b82e3f16d4-chat-communication-icon-by-vexels.png" width="30" height="30"> Comunicação
+## <img src="https://www.pinclipart.com/picdir/middle/28-282767_vector-megaphone-blue-transparent-background-megaphone-icon-clipart.png" width="30" height="30"> Comunicação
 * [Youtube](https://www.youtube.com/channel/UCc3ofApE56G_bhFQ7CZ7TZA)
 * [Twitter](https://twitter.com/CodeMMORPG)
 * [Discord](https://discord.gg/44yUVeU)
