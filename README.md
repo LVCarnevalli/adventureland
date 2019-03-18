@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Scripts and guias do jogo Adventure Land</h4>
+<h4 align="center">Scripts e guias do jogo Adventure Land</h4>
 
 ## <img src="https://iconutopia.com/wp-content/uploads/2016/06/icon-design-guide.png" width="30" height="30"> Links
 * [Guia iniciante](https://steamcommunity.com/sharedfiles/filedetails/?id=1636142608)
