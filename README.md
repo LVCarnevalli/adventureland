@@ -19,7 +19,7 @@
 * [Debug Chrome](https://www.reddit.com/r/AdventureLand/comments/58yp8e/)
 * [Criando templates customizados](https://github.com/LVCarnevalli/adventureland/tree/master/GUI/tampermonkey)
 
-## <img src="https://www.pinclipart.com/picdir/middle/28-282767_vector-megaphone-blue-transparent-background-megaphone-icon-clipart.png" width="30" height="30"> Comunicação
+## <img src="https://www.freeiconspng.com/uploads/megaphone-icon--flatastic-11-iconset--custom-icon-design-30.png" width="30" height="30"> Comunicação
 * [Youtube](https://www.youtube.com/channel/UCc3ofApE56G_bhFQ7CZ7TZA)
 * [Twitter](https://twitter.com/CodeMMORPG)
 * [Discord](https://discord.gg/44yUVeU)
