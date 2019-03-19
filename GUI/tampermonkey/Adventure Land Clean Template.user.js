@@ -70,33 +70,12 @@ _action(
 );
 
 _action(
-  "customizeSkillBar",
-  () => _isPage("character") && $("#skillbar").length > 0,
-  function() {
-    $("#skillbar")
-      .parent()
-      .css("margin-bottom", "15px");
-  }
-);
-
-_action(
-  "customizeHPMPBar",
-  () => _isPage("character") && $(".bshadow2").length > 0,
-  function() {
-    $(".bshadow2")
-      .parent()
-      .css("margin-bottom", "-1px");
-  }
-);
-
-_action(
   "customizeXPBar",
   () => _isPage("character") && $(".xpsui").length > 0,
   function() {
     const xpsui = $(".xpsui")[0];
     $(".xpsui")[0].remove();
     $("#bottommid")[0].append(xpsui);
-    $(".vtopx").css("border-bottom", "0");
   }
 );
 
@@ -262,5 +241,13 @@ GM_addStyle(`
 
 #chatwparty > :first-child, div[id^='chatwpm'] > :first-child {
   border-bottom: 3px groove #949494 !important;
+}
+
+#bottomrightcorner > :first-child {
+  margin-bottom: 15px !important;
+}
+
+#bottommid [style="margin-bottom: -4px"] {
+  margin-bottom: -2px !important;
 }
 `);
