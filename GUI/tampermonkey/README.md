@@ -8,7 +8,9 @@
 
 <h4 align="center">Minimal template custom with Tampermonkey</h4>
 
-![screenshot](https://github.com/LVCarnevalli/adventureland/raw/master/gameplay.gif)
+<h1 align="center">
+   <img src="https://github.com/LVCarnevalli/adventureland/raw/master/gameplay.gif" />
+</h1>
 
 <p align="center">
   <a href="#key-features">Features</a> •
