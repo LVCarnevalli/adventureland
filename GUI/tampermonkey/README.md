@@ -8,7 +8,7 @@
 
 <h4 align="center">Minimal template custom with Tampermonkey</h4>
 
-<img src="http://recordit.co/tX2USPhRc7" alt="Adventure Land - The Code MMORPG" width="800">
+<img src="http://g.recordit.co/tX2USPhRc7.gif" alt="Adventure Land - The Code MMORPG" width="800">
 
 <p align="center">
   <a href="#key-features">Features</a> •
