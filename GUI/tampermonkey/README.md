@@ -17,7 +17,7 @@
 
 ## Features
 * Add button options, show or hide other buttons;
-* Style XP, HP, MP Bar;
+* Style XP, HP, MP Bar and others;
 * Remove FPS Counter;
 * Custom scripts with function "_action".
 
