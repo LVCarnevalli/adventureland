@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Adventure Land Clean Template
-// @version      0.1
+// @version      1.0
 // @author       lcarnevalli
 // @match        https://adventure.land/*
 // @grant        GM_addStyle
