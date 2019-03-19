@@ -8,7 +8,7 @@
 
 <h4 align="center">Minimal template custom with Tampermonkey</h4>
 
-![](http://g.recordit.co/tX2USPhRc7.gif)
+<img src="http://g.recordit.co/tX2USPhRc7.gif" width="400" height="400" />
 
 <p align="center">
   <a href="#key-features">Features</a> •
