@@ -166,7 +166,6 @@ GM_addStyle(`
   height: 20px !important;
   line-height: 15px !important;
   font-size: 20px !important;
-  color: #ffffff1f !important;
 }
 
 #bottommid {
