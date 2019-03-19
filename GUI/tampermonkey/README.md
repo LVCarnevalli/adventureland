@@ -8,7 +8,7 @@
 
 <h4 align="center">Minimal template custom with Tampermonkey</h4>
 
-<iframe src='https://gfycat.com/ifr/DelectableBothGar' frameborder='0' scrolling='no' allowfullscreen width='640' height='356'></iframe>
+<img src="https://im.ezgif.com/tmp/ezgif-1-e2c5f1b8083e.gif" />
 
 <p align="center">
   <a href="#key-features">Features</a> •
