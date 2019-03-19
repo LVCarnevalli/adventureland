@@ -8,7 +8,7 @@
 
 <h4 align="center">Minimal template custom with Tampermonkey</h4>
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-e2c5f1b8083e.gif" />
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](http://recordit.co/tX2USPhRc7)
 
 <p align="center">
   <a href="#key-features">Features</a> •
