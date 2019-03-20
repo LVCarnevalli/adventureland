@@ -32,6 +32,7 @@ parent.window.custom_plugins = {
 
 // The code
 
+on_destroy();
 parent.$(".gamebutton:contains(CONF)").after(
     '<div id="gamebutton_plugins" style="margin-left: 5px;" class="gamebutton" onclick="btc(event); parent.window.showPlugins()">PLUGINS</div>'
 );
