@@ -31,41 +31,6 @@ function _injectScript(innerHTML) {
     document.getElementsByTagName("head")[0].appendChild(script);
 }
 
-_action("hideFPS", () => unsafeWindow.game_loaded == true, function() {
-    stage.children.filter(
-        child =>
-        child.pluginName == "sprite" &&
-        child._font == 'normal normal normal 32px "Arial"'
-    )[0].visible = false;
-});
-
-_action(
-    "addButtonOptions",
-    () =>
-    _isPage("character") && $(".gamebutton:contains(CONF):visible").length > 0,
-    function() {
-        $(".gamebutton:contains(CONF)").after(
-            '<div id="gamebutton_options" style="margin-left: 5px;" class="gamebutton" onclick="btc(event); show_options()">HIDE OPTIONS</div>'
-        );
-        _injectScript(`
-          ${function show_options() {
-            if (!window.gamebuttons) {
-              window.gamebuttons = $(
-                "#toprightcorner .gamebutton:visible:not(#gamebutton_options)"
-              );
-            }
-            if ($(window.gamebuttons[0]).is(":hidden")) {
-              window.gamebuttons.show();
-              $("#gamebutton_options")[0].innerText = "HIDE OPTIONS";
-            } else {
-              window.gamebuttons.hide();
-              $("#gamebutton_options")[0].innerText = "OPTIONS";
-            }
-          }}
-        `);
-    }
-);
-
 _action(
     "customizeXPBar",
     () => _isPage("character") && $(".xpsui").length > 0,
