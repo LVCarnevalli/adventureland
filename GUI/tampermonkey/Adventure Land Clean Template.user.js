@@ -162,7 +162,7 @@ GM_addStyle(`
 #pagewrapped, .menu > :last-child, .newcharacter .gamebutton, .selectioninput,
 .imodal, .imodal .gamebutton, #toprightcorner .gamebutton, #topleftcornerui .renderedinfo, #topleftcornerui .gamebutton, .modal .blockbutton, #bottomleftcorner > :first-child,
 #theskills > :last-child, #bottomleftcorner2 > :first-child, #bottomleftcorner2 > :last-child, #skillbar > :first-child, #topleftcornerui .slimbutton, #codeui, .engagebutton, .dengagebutton,
-#xptimer, #goldtimercontent, #dpsmetercontent table, #gamelog-tab-bar {
+#xptimer, #goldtimercontent, #dpsmetercontent table, #gamelog-tab-bar, .imodal > :first-child [style="margin-top: 10px; font-size: 24px; line-height: 28px; border: 4px solid gray; background: black; padding: 16px;"] {
   background: url(https://i.stack.imgur.com/pMAiU.jpg) !important;
   border: 3px groove #949494 !important;
 }
@@ -184,7 +184,7 @@ GM_addStyle(`
 .renderedinfo > :last-child > div, #bottomleftcorner > :first-child > :nth-child(3), #merchant-item > :first-child, #recipe-item > :first-child {
   border: 0 !important;
 }
-.textbutton.chartype, .textbutton.gendertype, .friendslist, .renderedinfo > :last-child > div > div, #topleftcornerui > :last-child, #maincode, #topleftcornerui > :first-child, .inventory-item > :first-child, #skills-item > :first-child, #topleftcornerdialog > :first-child {
+.textbutton.chartype, .textbutton.gendertype, .friendslist, .renderedinfo > :last-child > div > div, #topleftcornerui > :last-child, #maincode, #topleftcornerui > :first-child, .inventory-item > :first-child, #skills-item > :first-child, #topleftcornerdialog > :first-child, #alcodenumx, #alcodeinputx {
   border: 3px groove #949494 !important;
 }
 #bottomleftcorner [ondrop="on_drop(event)"], #bottomrightcorner [ondrop="on_drop(event)"], #theskills [ondrop="on_drop(event)"], #topleftcornerui [style^="position: relative; display:inline-block; margin: 2px;"] {
